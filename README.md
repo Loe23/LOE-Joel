@@ -1,4 +1,6 @@
 # Joel Loe – Data Analyst & Data Engineer
+![Photo LOE Joel](Photo%20LOE%20Joel.jpg)
+
 
 Bienvenue sur mon portfolio GitHub ! Je suis Joel Loe, un Data Analyst et Data Engineer passionné, spécialisé dans la transformation des besoins métiers en solutions data concrètes, automatisées et stratégiques.
 
